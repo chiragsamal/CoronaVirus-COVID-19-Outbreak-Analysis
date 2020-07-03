@@ -13,8 +13,11 @@ Researchers first isolated a coronavirus in 1937. They found a coronavirus respo
 
 COVID-19 In 2019, the Centers for Disease Control and Prevention (CDC) started monitoring the outbreak of a new coronavirus, SARS-CoV-2, which causes respiratory illness now known as COVID-19. Authorities first identified the virus in Wuhan, China. More than 74,000 people have contracted the virus in China. Health authorities have identified many other people with COVID-19 around the world, including many in the United States. On January 31, 2020, the virus passed from one person to another in the U.S. The World Health Organization (WHO) have declared a public health emergency relating to COVID-19. Information on the virus is scarce at present. In the past, respiratory conditions that develop from coronaviruses, such as SARS and MERS, have spread through close contacts.
 
-References: https://www.medicalnewstoday.com/articles/256521#definition
+References: [Medical News Today](https://www.medicalnewstoday.com/articles/256521#definition)
+
+Kaggle Notebook: [COVID-19 Analysis](https://www.kaggle.com/chirag9073/covid-19-analysis-upd-3rd-july)
+
 
 <b>P.S.</b> I will try update this project frequently. Suggestions are highly welcomed :)
 
-Last Update: <b.17th April, 2020</b>
+Last Update: <b>3rd July, 2020</b>
